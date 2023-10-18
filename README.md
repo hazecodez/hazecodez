@@ -1,5 +1,5 @@
 
-
+![Your Banner](https://github.com/hazecodez/mahindrasuv_clone/blob/main/medias/github-header-image.png?raw=true)
 <h1 align="center">Hi 👋, I'm Hashir</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
