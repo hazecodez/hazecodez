@@ -1,6 +1,5 @@
 
 ![Your Banner](https://github.com/hazecodez/mahindrasuv_clone/blob/main/medias/github-header-image.png?raw=true)
-<h1 align="center">Hi 👋, I'm Hashir</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 
@@ -8,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hazee040" target="blank"><img src="https://img.shields.io/twitter/follow/hazee040?logo=twitter&style=for-the-badge" alt="hazee040" /></a> </p>
 
-- 🌱 I’m currently learning **React and DSA**
+- 🌱 I’m currently learning **React and SQL**
 
 - 💬 Ask me about **MERN**
 
