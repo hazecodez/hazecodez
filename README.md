@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hazee040" target="blank"><img src="https://img.shields.io/twitter/follow/hazee040?logo=twitter&style=for-the-badge" alt="hazee040" /></a> </p>
 
-- 🌱 I’m currently learning **React and SQL**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **MERN**
 
