@@ -8,11 +8,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Travel Package Planning Web Application**
+ 🔭 I’m currently working on **Waste Management Application**
  
- 🌱 I’m currently learning **Docker**
+ 🌱 I’m currently learning **Next Js**
 
-💬 Ask me about **MongoDB, Express.js, React, Node.js**
+💬 Ask me about **MongoDB, Express.js, React, Node.js, TypeScript**
 
 📫 How to reach me **muhammedhashir298@gmail.com**
 
